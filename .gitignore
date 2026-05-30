@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+.AppleDouble
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Temp files
+~$*.docx
+~$*.xlsx
+*.tmp
+
+# Large source files (keep reference only)
+data/*.docx
+
+# Claude
+.claude/
