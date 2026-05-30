@@ -1,0 +1,229 @@
+[   0] (Normal              ) 
+[   1] (Normal              )                                     涉密论文 □  公开论文 □ 
+[   2] (Normal              ) 
+[   3] (Normal              ) 
+[   4] (Normal              )   本 科 生 毕 业 论 文（设计）
+[   5] (Normal              ) 
+[   6] (Normal              ) 探究人源ATG4介导的自噬在抗病毒免疫中的作用
+[   7] (Normal              ) Deciphering the role of human ATG4-mediated autophagy in antiviral immunity
+[   8] (Normal              ) 
+[   9] (Normal              ) 
+[  10] (Normal              ) 毕业论文（设计）原创性声明
+[  11] (Normal              ) 本人郑重声明：所呈交的毕业论文（设计）是本人在导师的指导下，严格按照学校和学院有关规定完成的，不存在学术不端行为。除文中特别加以标注和致谢的地方外，本论文（设计）不包含其他个人或集体已经发表或撰写过的研究成果，也不包含为获得 浙江大学 或其他教育机构的学位或证书而使用过的材料。对本研究做出贡献的个人和集体，均已在文中明确说明并表示谢意。
+[  12] (Normal              )                毕业论文（设计）作者签名：
+[  13] (Normal              )                                签字日期：  2026 年 5 月 8日
+[  14] (Normal              ) 
+[  15] (Normal              ) 毕业论文（设计）使用授权书
+[  16] (Normal              ) 本人完全了解 浙江大学 有权保留并向国家有关部门或机构送交本论文（设计）的复印件和电子版，允许本论文（设计）被查阅和借阅。本人授权 浙江大学 可以将本论文（设计）的全部或部分内容编入有关数据库进行检索和传播，可以采用影印、缩印或扫描等复制手段保存、汇编本论文（设计）。
+[  17] (Normal              ) （涉密毕业论文（设计）在解密后适用本授权书。）
+[  18] (Normal              ) 
+[  19] (Normal              ) 毕业论文（设计）作者签名：               导师签名：
+[  20] (Normal              ) 签字日期：2026年 5 月8日        签字日期: 2026 年 5月8日
+[  21] (Normal              ) 
+[  22] (Normal              ) 目    录
+[  23] (Normal              ) 
+[  24] (toc 1               ) 致谢	Ⅰ
+[  25] (toc 1               ) 摘要	Ⅱ
+[  26] (toc 1               ) Abstract	Ⅲ
+[  27] (toc 1               ) 
+1 绪论	1
+[  28] (toc 1               ) 1.1 研究背景	1
+[  29] (toc 1               ) 1.1.1 HSV-2 脑膜炎患者中由 ATG4A 和 LC3B2 介导的自噬缺陷	1
+[  30] (toc 1               ) 1.1.2 ATG4介导的自噬在抗病毒免疫中的作用	1
+[  31] (toc 1               ) 1.2 研究内容	2
+[  32] (toc 1               ) 2 实验材料与方法	2
+[  33] (toc 1               ) 2.1 ATG4C和ATG4D变异的群体遗传学分析	2
+[  34] (toc 1               ) 2.1.1 ATG4C和ATG4D变异的筛选	2
+[  35] (toc 1               ) 2.1.2 变异致病性与人群频率分析	3
+[  36] (toc 1               ) 2.2 ATG4C和ATG4D变异的体外表达分析	3
+[  37] (toc 1               ) 2.2.1 ATG4C和ATG4D变异的筛选	3
+[  38] (toc 1               ) 2.2.2 体外表达系统的选择和构建	4
+[  39] (toc 1               ) 3 实验结果	8
+[  40] (toc 1               ) 3.1 ATG4C和ATG4D变异的群体遗传学分析	8
+[  41] (toc 1               ) 3.2 ATG4C和ATG4D变异的体外表达	9
+[  42] (toc 1               ) 3.2.1 候选变异筛选	9
+[  43] (toc 1               ) 3.2.2 ATG4C变异对转录和蛋白质表达的影响	11
+[  44] (toc 1               ) 3.2.3 ATG4D 变异对转录和蛋白质表达的影响	13
+[  45] (toc 1               ) 4 实验结论	14
+[  46] (toc 1               ) 5 讨论	16
+[  47] (toc 1               ) 6 参考文献	20
+[  48] (toc 1               ) 作者简历	22
+[  49] (Normal              ) 
+[  50] (toc 1               ) 
+[  51] (附录标识                ) 
+[  52] (附录标识                ) 致 谢
+[  53] (Normal              ) 时光荏苒，转眼间，大学四年的学习生活即将结束。回想这四年，自己始终没有忘记最初对生物学的热爱。虽然知道科学探索的道路并不平坦，前方也会有很多困难和挑战，但我依然愿意怀着这份初心，继续走下去。
+[  54] (Normal              ) 首先，我要感谢我的父母。过去几年里，你们曾多次劝我考虑转专业，我知道这并不是不支持我，而是因为你们担心我在这条路上走得太辛苦，心疼我无数个做实验到深夜的日子。感谢你们最终还是理解并尊重了我的选择，让我能够继续在生物科学的道路上前行。谢谢你们一直以来的包容、支持和爱。
+[  55] (Normal              ) 在过去四年的学习和科研过程中，我还要感谢所有给予过我帮助的老师。感谢Shen-Ying Zhang教授在毕业论文写作过程中给予我的悉心指导，感谢Sonia Jangra师姐在实验技术和论文写作方面对我的耐心帮助与指导；感谢孙益老师作为班主任一直以来的细心负责，在学习和成长的过程中给予我很多帮助和支持；感谢周青老师、管坤良老师、夏鹏老师在科研训练过程中给予我的指导与帮助，让我在实践中不断学习、不断进步。感谢所有的任课老师帮助我打下坚实的生物学基础。同时，我也想感谢一路上陪伴我的朋友们。感谢你们在我遇到困难时给予鼓励，在我感到疲惫时给予支持，让我在这段求学时光中始终感受到温暖和力量。
+[  56] (Normal              ) 最后，我也想感谢自己。感谢自己始终没有放弃对生物学的热爱，感谢自己在本科四年里保持勇敢、坚定和好奇心，能够有机会在多个优秀的实验室交流和学习。正是这些经历，让我更加坚定了继续在生物领域走下去的决心。
+[  57] (Normal              ) 衷心祝愿所有帮助过我、陪伴过我的师长和朋友平安顺遂，万事如意。也希望自己未来能够继续保持初心，坚定地走在热爱的道路上。
+[  58] (Normal              ) 
+[  59] (附录标识                ) 2026 年 5 月于杭州
+[  60] (附录标识                ) 
+[  61] (toc 1               ) 
+[  62] (附录标识                ) 摘要
+[  63] (段                   ) 自噬是细胞维持稳态和抵御病毒感染的重要过程，可能在中枢神经系统抗病毒免疫中发挥关键作用。本研究旨在探究自噬相关基因ATG4C和ATG4D的变异对人类抗病毒免疫的影响。研究首先基于大规模人群基因数据库，对 ATG4C 和 ATG4D 的变异分布、在人群中的频率及潜在有害性进行分析；随后筛选人群中较常见或预测有害性较高的变异，并在人源细胞中过表达这些变异体，检测其对转录本和蛋白表达的影响。结果显示，ATG4C 和 ATG4D 中预测有害性较高的非同义变异在人群中总体较为罕见，提示这两个基因受到较强的进化约束。体外表达实验进一步发现，部分ATG4C预测功能丧失性变异可导致蛋白质表达缺失，而检测到的ATG4D变异虽未造成明显蛋白缺失，但仍可能影响蛋白功能。相关病毒感染实验也提示，部分ATG4C有害变异可能增加细胞对单纯疱疹病毒感染的易感性。综上，本研究发现有害的罕见ATG4C/D双等位基因变异在严重中枢神经系统病毒感染患者中更为富集，提示有害的ATG4基因中罕见的双等位基因变异可能会导致一类以前未被认识到的常染色体隐性遗传性先天性免疫缺陷。
+[  64] (段                   ) 关键词：自噬；ATG4家族；ATG4C；ATG4D；抗病毒免疫；中枢神经系统病毒感染；基因变异；先天性免疫缺陷
+[  65] (段                   ) 
+[  66] (段                   ) 
+[  67] (段                   ) 
+[  68] (Normal              ) Abstract
+[  69] (Normal              ) 	Autophagy is an important process that helps maintain cellular homeostasis and defend against viral infection. It may play a key role in antiviral immunity in the central nervous system. This study aimed to investigate how variants in the autophagy-related genes ATG4C and ATG4D affect human antiviral immunity. We first analyzed the distribution, population frequency, and predicted deleteriousness of ATG4C and ATG4D variants using large-scale population genetic databases. We then selected variants that were relatively common in the general population or were predicted to be highly deleterious, and overexpressed them in human cells to assess their effects on messenger RNA and protein expression. The results showed that predicted deleterious nonsynonymous variants in ATG4C and ATG4D were generally rare in the general population, suggesting that these two genes are under strong evolutionary constraint. In vitro expression experiments further showed that some predicted loss-of-function variants in ATG4C caused a loss of protein expression, possibly by affecting protein production or stability. In contrast, the tested ATG4D variants did not lead to obvious protein loss, although they may still affect protein function through mechanisms that were not assessed in this study. Related viral infection experiments also suggested that some deleterious ATG4C variants may increase cellular susceptibility to herpes simplex virus infection. In summary, this study found that rare deleterious biallelic variants in ATG4C and ATG4D are enriched in patients with severe viral infections of the central nervous system. These findings suggest that rare deleterious biallelic variants in ATG4 genes may cause a previously unrecognized form of autosomal recessive inborn error of immunity. 
+[  70] (Normal              ) Keywords: autophagy; ATG4 family; ATG4C; ATG4D; antiviral immunity; central nervous system viral infection; genetic variants; inborn errors of immunity
+[  71] (Normal              ) 
+[  72] (toc 1               ) 
+[  73] (附录标识                ) 绪论
+[  74] (段                   ) 1.1 研究背景
+[  75] (段                   ) 1.1.1 HSV-2脑膜炎患者中由ATG4A和LC3B2介导的自噬缺陷
+[  76] (段                   ) 近期有报道称，两名患有复发性单纯疱疹病毒2型（HSV-2）淋巴细胞性脑膜脑炎的成年患者，被发现均携带自噬蛋白ATG4A和LC3B2中一种罕见的单等位基因变异[1]。研究人员发现，携带ATG4A和MAP1LC3B2预测有害基因的患者，在感染HSV-2后表现出自噬诱导受损，并伴有病毒载量增加和细胞死亡加剧。该研究首次描述了自噬在人类疱疹病毒感染中具有重要的抗病毒功能，并表明先天性自噬缺陷可能代表了一类新型的原发性免疫缺陷疾病。这一发现表明，ATG4A及其同源物（如ATG4B、ATG4C和ATG4D）的缺陷可能与病毒相关的组织损伤及疾病进展有关。
+[  77] (段                   ) 1.1.2 ATG4介导的自噬在抗病毒免疫中的作用
+[  78] (段                   ) 自噬是一种重要且高度保守的细胞过程，能够清除或循环利用受损的细胞成分，从而维护细胞稳态[2,3]。当细胞处于营养饥饿、感染、炎症和氧化应激等多种环境压力下时[3,4]，这个由超过30种自噬相关蛋白（ATGs）参与的严密调控级联反应将被激活[5]。自噬通过形成具有双层膜结构的自噬体，包裹部分细胞质成分及特定胞内底物，如受损的细胞大分子或细胞器、胞内病原体以及通过氧化应激、感染、疾病和衰老等过程积累的蛋白质聚集体[6]。随后，自噬体与溶酶体融合形成自噬溶酶体，降解其中的内容物，并将大分子物质回收以循环利用[2]。
+[  79] (段                   ) 除了在维护细胞稳态的经典作用外，越来越多的研究表明，自噬也是宿主应对包括病毒在内的多种胞内病原体反应的重要参与者[7–10]。值得注意的是，自噬介导的抗病毒免疫在中枢神经系统中具有尤为重要的意义。神经元是终末分化的长寿命细胞，其更新或替换能力有限，因此需要在清除病毒威胁的同时尽可能维持细胞存活和其正常功能。而干扰素代表的有丝分裂细胞中主要的先天免疫反应，通常会触发全身性的反应[11]，会造成神经系统的损伤。因此自噬可能作为一种局部的、细胞内在的先天免疫形式发挥作用。这种机制对神经元而言尤其关键，使其能够在应对病毒威胁的同时，保持神经系统的完整性和功能。
+[  80] (Normal              ) 在所有自噬蛋白中，ATG4是唯一的半胱氨酸蛋白酶，也是自噬通路中的关键调节因子[12]。在人类中，ATG4家族包含四个同源物——ATG4A、ATG4B、ATG4C和ATG4D，它们共同介导人源ATG8（例如LC3和GABARAP家族蛋白）的加工和去脂化。尽管这些同源物在结构上具有相似性，但它们在底物偏好、调控特性和组织特异性表达模式上表现出显著差异[13, 14]。通过这些功能，ATG4家族协调着自噬体的起始和成熟，是维持适当的自噬流和细胞稳态所不可或缺的因素。
+[  81] (段                   ) 1.2 研究内容
+[  82] (Normal              ) 基于自噬在神经元抗病毒免疫中的特殊作用，以及ATG4家族在自噬调控中的核心地位，本研究旨评估ATG4C和ATG4D变异的人群耐受性并验证其预测的致害性。为此，我们结合gnomAD v4.1数据库和HGID实验室数据库，对 ATG4C和ATG4D进行群体遗传学分析，并结合次要等位基因频率、CADD（Combined Annotation Dependent Depletion）评分和显著性阈值（MSC95）评估其变异的潜在致病性和进化约束[15, 16]。在此基础上，我们进一步筛选gnomAD v4.1数据库中较常见或预测有害性较高的非同义纯合变异，构建ATG4C/D野生型及变异体表达质粒，并在 HEK293T 细胞中检测其对转录和蛋白表达的影响，并与患者携带的ATG4C/D变异进行对比。实验结果显示，ATG4C/D变异受到强烈的选择压力，并且罕见有害双等位基因变异在严重中枢神经系统病毒感染患者中更为富集。这些发现提示，ATG4C/D 相关的先天性自噬缺陷可能增加个体对中枢神经系统病毒感染的易感性，并可能代表一类尚未充分认识的原发性免疫缺陷。本研究为理解 ATG4 介导的自噬在人类抗病毒免疫中的作用提供了新的视角。
+[  83] (Normal              ) 
+[  84] (Normal              ) 2 实验材料与方法
+[  85] (段                   ) 2.1 ATG4C和ATG4D的群体遗传学分析
+[  86] (段                   ) 2.1.1 ATG4C和ATG4D变异的筛选
+[  87] (段                   ) 	本研究基于HGID实验室（Human Genomics in Infectious Diseases Laboratory，由Dr. Jean-Laurent Casanova领导）数据库中经全外显子组测序或全基因组测序获得的患者遗传数据，筛选携带双等位ATG4家族基因变异的患者，即该基因的两个等位基因分别携带不同的破坏性变异（分别遗传自父母双方）。这种构型在常染色体隐性遗传疾病中至关重要，因为通常需要两个等位基因同时受累才会导致基因功能受损。筛选结果显示，患者所携带的ATG4变异仅分布于ATG4C和ATG4D。因此，后续研究只围绕ATG4C和ATG4D展开。
+[  88] (段                   ) 为从群体遗传学角度评估ATG4C和ATG4D对遗传变异的耐受程度，我们在 gnomAD v4.1 数据库（Genome Aggregation Database）中系统检索了两个基因的变异信息[17]。gnomAD 整合了大规模人群外显子组和基因组测序数据，提供变异的等位基因频率、杂合子数量、纯合子数量及不同人群中的分布情况，是评估基因变异在人群中耐受性和潜在功能约束的常用数据库。
+[  89] (段                   ) 本实验旨在通过分析普通人群中相关变异的分布情况，评估 ATG4C 和 ATG4D的人群耐受性及其预测的有害性。我们重点筛选以纯合状态存在的非同义变异，尤其关注预测功能丧失性变异（predicted loss-of-function variants, pLOF variants）。选择这一筛选策略的原因在于，纯合非同义变异在普通人群中的存在通常提示该变异或相应基因功能受损具有一定耐受性；相反，严重影响基因功能的变异往往受到负选择，较少以纯合状态出现。我们重点关注 pLOF 变异，是因为此类变异通常包括无义变异、移码变异和关键剪接位点变异等，可能导致蛋白截短、mRNA 降解或蛋白功能丧失，因此被认为具有较高的潜在致病性，是评估基因变异的人群耐受性的重要指标。
+[  90] (段                   ) 2.1.2 变异致病性与人群频率分析
+[  91] (段                   ) 在筛选出符合条件的变异后，我们进一步结合CADD（Combined Annotation Dependent Depletion，联合注释依赖性耗竭）评分和MAF（Minor Allele Frequency, 次要等位基因频率），分析pLOF变异和错义变异在ATG4C和ATG4D基因中的分布特征[15]。其中，CADD评分用于预测变异的潜在有害性，评分越高提示变异越可能影响基因或蛋白功能；MAF则反映变异在人群中的频率，频率越低通常提示该变异越罕见。最后，我们将各变异的CADD评分与对应基因的MSC95阈值（Mutation Significance Cutoff, MSC）进行比较，以评估这些变异是否超过基因特异性的有害性判定阈值，从而对ATG4C和ATG4D基因进行群体遗传学分析[16]。
+[  92] (段                   ) 2.2 ATG4C和ATG4D变异的体外表达分析
+[  93] (段                   ) 2.2.1 ATG4C和ATG4D候选变异筛选
+[  94] (段                   ) 为了进一步验证ATG4C和ATG4D变异在人群中的耐受性及其预测有害性，我们在体外细胞系统中表达罕见的患者相关变异和gnomad v4.1中较常见（次要等位基因频率（Minor Allele Frequency）MAF > 0.0001的变异）或预测致病性较高的的非同义变异ATG4C和ATG4D变异（AlphaMissense（AM）评分> 0.56的变异和pLOF变异），并分析其CADD评分[18]。
+[  95] (段                   ) 其中，MAF（Minor Allele Frequency，次要等位基因频率） 反映变异在人群中的出现频率。设置MAF > 0.0001的目的在于筛选在人群中相对常见的变异。这类变异可作为评估ATG4C和ATG4D对遗传变异耐受性的“自然人群实验”，帮助建立可耐受变异的背景分布。
+[  96] (段                   ) 除此之外，我们根据AlphaMissense模型生成的错义变异功能影响预测分数，来评估氨基酸替换对蛋白功能的潜在影响。该分数越高，提示该错义变异越可能有害。根据AlphaMissense的分类标准，AM评分> 0.56通常对应“可能致病/可能有害”的范围。因此，加入AM评分> 0.56这一条件，可以筛选到在人群中频率较低、但在蛋白功能层面可能具有较高破坏潜力的候选有害错义变异。
+[  97] (Normal              ) 采用“MAF > 0.0001或AM评分> 0.56”的组合筛选标准，可以同时纳入两类具有解释价值的变异：一类是在人群中相对常见、可用于判断双等位基因状态下是否被耐受的背景变异；另一类是虽然罕见但被计算模型预测为高危的候选有害变异。随后，我们进一步结合CADD评分，并将其与各基因对应的MSC95阈值进行比较，以区分可能被人群耐受的背景变异与可能受到负选择、具有潜在功能影响的破坏性变异。该策略有助于评估ATG4C和ATG4D双等位基因变异的遗传约束程度，并为解释病毒性脑炎患者中罕见高影响变异的潜在致病性提供群体遗传学依据。
+[  98] (段                   ) 2.2.2 体外表达系统的选择和构建
+[  99] (Normal              ) 为对筛选出的ATG4C和ATG4D变异进行功能评估，我们建立了体外表达系统，用于检测这些变异对mRNA水平、蛋白表达量、蛋白大小和蛋白稳定性的影响。野生型和变异型构建体均在相同的细胞背景和质粒骨架条件下进行比较，从而减少内源性基因表达、启动子活性或遗传背景差异带来的干扰。
+[ 100] (Normal              ) 我们采用HEK293T细胞瞬时转染体系作为快速筛选平台。该体系可同时检测多个变异，并避免稳定细胞系构建过程中可能引入的偏倚，例如抗生素筛选、克隆扩增、基因组整合效应以及细胞长期适应性变化等。随后，我们通过 RT-qPCR和Western blot检测变异的影响，以判断其是否降低转录本水平、影响 mRNA 稳定性或翻译、产生截短蛋白，或降低蛋白稳定性。
+[ 101] (Normal              ) 选择HEK293T细胞是因为该细胞易于培养、生长速度快，并具有较高的质粒转染效率，可为后续分析提供充足的RNA和蛋白样本。本研究使用pCMV3质粒构建 ATG4C/D 野生型及变异型表达载体。该载体含有强CMV启动子，可在HEK293T细胞中高水平表达，有利于通过RT-qPCR和Western blot检测mRNA和蛋白表达。
+[ 102] (Normal              ) 为检测ATG4C/D蛋白，我们构建了连接有N端Myc标签、C端Myc标签以及无标签构建体。Myc标签序列较短，并可通过抗Myc抗体进行灵敏检测。由于部分变异为移码变异、无义变异或缺失变异，可能破坏蛋白C端区域。在这种情况下，部分变异的C端标签无法被翻译，导致Western blot出现假阴性结果。因此，后续实验选择N端Myc标签的ATG4C/D构建体。该设计可稳定检测全长蛋白，以及带有C端截短或缺失的蛋白。
+[ 103] (Normal              ) 尽管HEK293T瞬时转染体系适用于快速筛选ATG4C/D变异的表达情况，但该体系仍存在一定局限性。HEK293T 细胞属于转化细胞，其先天免疫或抗病毒信号通路可能发生改变。此外，瞬时转染通常会导致较高但不均一的外源基因表达，且表达时间窗口较短。因此，该模型不足以评估ATG4C/D变异在病毒感染和宿主抗病毒防御过程中的长期影响。为弥补这些不足，在BJ1 细胞中建立稳定表达体系可作为更合适的模型。BJ1细胞是非致瘤性人源成纤维细胞，更接近正常体细胞，并保留较完整的先天免疫和应激反应。慢病毒稳定表达系统还可实现持续且相对均一的ATG4C/D表达，这对于后续研究HSV-1感染、干扰素反应、自噬流和病毒复制具有重要意义。基于这一考虑，我还构建了pTRIP-GFP慢病毒载体，帮助本实验的合作者后续建立稳定表达的BJ1细胞系。
+[ 104] (Normal              ) 我们采用RT-qPCR检测HEK293T细胞中ATG4C野生型和变异型的mRNA水平，以判断这些变异是否影响转录本丰度。检测采用TaqMan探针法进行。引物和探针设计跨越外显子-外显子连接区，以提高对成熟剪接mRNA的特异性，并减少残留基因组DNA带来的信号干扰。
+[ 105] (Normal              ) 由于ATG4C变异分布在不同外显子上，因此我们设计了两套独立检测体系，分别靶向外显子2–3和外显子7–8连接区。外显子2–3检测体系用于检测转录本上游区域，而外显子7–8检测体系则提供中部/下游区域的检测窗口。通过检测两个不同区域，可以对mRNA丰度进行交叉验证。如果两套检测体系均显示mRNA水平一致下降，则提示转录本水平或稳定性降低；如果仅一套检测体系出现变化，则可能提示局部扩增偏倚、异常剪接或区域特异性的转录本改变。ATG4D也采用相同策略，检测体系分别靶向外显子2–3和外显子6–7连接区。
+[ 106] (Normal              ) pCMV3-ATG4C/D表达质粒构建
+[ 107] (段                   ) 野生型pCMV3-ATG4C和pCMV3-ATG4D质粒的构建由实验合作者完成。我们采用定点突变（site-directed mutagenesis）方法引入ATG4C/D变异。使用 Invitrogen Platinum™ SuperFi™ II PCR Master Mix（Thermo Fisher Scientific，货号12368010）对ATG4C和ATG4D进行重叠延伸PCR扩增，以此在目的序列中引入指定变异。PCR扩增完成后，使用DpnI（New England Biolabs，货号R0176V）消化甲基化模板质粒，以去除未突变的亲本模板。
+[ 108] (段                   ) 随后，将突变质粒产物转化至感受态细胞（New England Biolabs 10-beta Competent E. coli，货号C2019H）中。转化完成后，根据质粒携带的抗性基因，将菌液涂布于含0.1%氨苄西林或卡那霉素的LB琼脂糖固体培养基上进行筛选。次日挑选单克隆，并接种至含0.1%氨苄西林的LB液体培养基中扩增培养。扩增后，使用QIAprep Spin Miniprep Kit（Qiagen，货号27106）提取质粒。所有构建完成的质粒均经过Plasmidsaurus公司测序验证。
+[ 109] (Normal              ) pTRIP-GFPATG4C/D表达质粒的构建
+[ 110] (段                   ) 为了构建pTRIP-GFP-ATG4C和pTRIP-GFP-ATG4D质粒，我们从商业渠道获取了pTRIP-GFP空载质粒。随后，以pTRIP-GFP质粒为模板，采用PCR方法扩增获得线性化载体骨架。PCR扩增完成后，使用DpnI（New England Biolabs, 货号R0176V）消化模板质粒，以去除残留的环状亲本质粒；随后使用QIAquick PCR Purification Kit（Qiagen，货号28106）对线性化载体骨架进行纯化。
+[ 111] (段                   ) 同时，以已构建并测序验证正确的pCMV3-GFP-ATG4C或pCMV3-GFP-ATG4D质粒为模板，采用PCR方法扩增ATG4C或ATG4D目的片段。PCR反应使用 Invitrogen Platinum™ SuperFi II PCR Master Mix（Thermo Fisher Scientific，货号12368010）。扩增产物经1%琼脂糖凝胶电泳检测，以确认目的条带大小正确；随后使用QIAquick PCR Purification Kit（Qiagen，货号28106）对PCR产物进行纯化。
+[ 112] (段                   ) 纯化后的线性化pTRIP-GFP骨架与ATG4C/D插入片段随后通过In-Fusion克隆方法进行连接，形成pTRIP-GFP-ATG4C或pTRIP-GFP-ATG4D表达质粒。连接产物转化至10-betaCompetent E. coli（New England Biolabs ，货号C2019H）感受态细胞中。转化完成后，将菌液涂布于含0.1%氨苄西林的LB琼脂糖固体培养基上进行筛选。次日挑选单克隆，并接种至含0.1%氨苄西林的LB液体培养基中进行扩增培养。扩增完成后，使用QIAprep Spin Miniprep Kit（Qiagen，货号27106）提取质粒。最终获得的质粒均经过Plasmidsaurus公司进行测序验证.
+[ 113] (段                   ) 细胞培养
+[ 114] (Normal              ) HEK-293T(CRL-3216；ATCC)细胞购自美国典型培养物保藏中心(ATCC)，培养于添加10%胎牛血清(FBS)和DMEM培养基（Gibco，货号10566-016）中。细胞在37°C、5%CO2、95%空气的培养箱中培养。定期检查所有细胞，确保其不含支原体。
+[ 115] (Normal              ) 瞬时转染
+[ 116] (Normal              ) HEK293T细胞瞬时转染采用X-tremeGENE™ 9 DNA Transfection Reagent进行。转染前约24h，将HEK293T细胞接种于相应培养板或培养瓶中，使转染时细胞融合度约为30%–40%。转染当天，将X-tremeGENE™ 9 DNA转染试剂、质粒DNA以及稀释液Opti-MEM®无血清培养基（Gibco，货号31985-070）提前回温至15–25°C，并轻轻涡旋混匀。随后，在无菌离心管中加入适量Opti-MEM®，再加入X-tremeGENE™ 9 DNA转染试剂，轻轻混匀后加入相应的质粒DNA，并通过轻轻吹打使其充分混合。转染混合物在15–25°C孵育15min以形成DNA-转染试剂复合物。孵育结束后，将转染复合物逐滴加入HEK293T细胞培养孔或培养瓶中，并轻轻摇动或旋转培养板，使复合物在培养液中均匀分布。随后将细胞置于常规培养条件下继续培养，并在转染后48h收集细胞，用于后续RNA提取、蛋白提取及相关表达检测。
+[ 117] (Normal              ) 实时荧光定量逆转录聚合酶链式反应
+[ 118] (Normal              ) 使用Quick-RNA MicroPrep Kit和Zymo-SpinIC柱（Zymo Research，货号R1051），按照制造商的说明书，从HEK293T细胞中分离RNA。使用AppliedBiosystems 7500 Fast 实时荧光定量PCR系统，采用Applied Biosystems TaqMan探针检测ATG4C（跨越2-3号外显子；跨越7-8号外显子）、ATG4D（跨越2-3号外显子；跨越6-7号外显子）和用于内参基因β-葡糖醛酸酶（GUS，#4310888E）的表达。使用Applied Biosystems 7500软件（v.2.0.6）分析结果，并根据试剂盒说明书中的ΔΔCt法进行表达。
+[ 119] (段                   ) 免疫印迹
+[ 120] (Normal              ) HEK293T细胞在NP-40裂解缓冲液（280mM NaCl、50mMTris，pH 8、0.2mM EDTA、2mM EGTA、10% 甘油、0.5% NP-40）中裂解，该缓冲液补充了1mM DTT、PhosSTOP（Roche）和cOmplete蛋白酶抑制剂混合物（Roche）。将蛋白裂解液进行SDS-PAGE电泳，并将电泳产物转移至硝酸纤维素膜上，然后用未标记的一抗和二抗进行检测。使用抗Myc抗体（Cell Signaling Technology，2040；1:1000稀释）和GAPDH抗体（sc-47724，Santa Cruz Biotechnology；1:5000稀释），均购自商业供应商。将膜与一抗于4℃孵育过夜。使用SuperSignal West Pico化学发光底物（Thermo Fisher）显色HRP活性，并用Amersham Imager 600（GE Life Sciences）检测信号。
+[ 121] (段                   ) 统计学分析
+[ 122] (Normal              ) 在适用情况下，结果以均值±标准误表示。在需要时，对对数转换后的相对值采用线性混合模型进行分析，以校正重复测量的影响。统计分析使用GraphPadPrism 9（v.9.2.0）完成。
+[ 123] (Normal              ) 
+[ 124] (段                   ) 3 实验结果
+[ 125] (段                   ) 3.1 ATG4C和ATG4D的群体遗传学分析
+[ 126] (段                   ) 在HGID实验室数据库中，我们在患有单纯疱疹病毒脑炎的患者队列中筛选到了携带有ATG4C Arg389Ter，ATG4D Ser89Asn和Arg382His双等位基因变异的患者。
+[ 127] (段                   ) 我们在gnomAD v4.1数据库中检索了ATG4C和ATG4D的遗传变异信息，筛选出存在纯合子的非同义变异。基于CADD评分、等位基因频率以及MSC95阈值，我们评估了非同义纯合变异，特别是pLOF变异，在普通人群中的分布特征，并将其与患者携带的变异进行对比（图3.1）。
+[ 128] (Normal              ) 我们发现，超出各自 MSC95 阈值的非同义变异相对稀缺，加之高 CADD 评分的错义变异等位基因频率极低，这反映了ATG4C和ATG4D（特别是ATG4D）受到强烈的纯化选择。这一结果与ATG4C和ATG4D在自噬、细胞稳态维持以及多种组织中的广泛表达和重要功能相一致，表明这些基因中的破坏性变异在普通人群中是不被耐受的。
+[ 129] (段                   ) 
+[ 130] (Normal              ) 图3.1ATG4C和ATG4D的群体遗传学分析。基因组聚合数据库（gnomADv4.1）中报告的ATG4C和ATG4D变异的次要等位基因频率（MAF）及联合注释依赖性缺失评分（CADD）。每个点代表针对每个同源物列出的gnomADv4.1数据库中普通人群中的一个或多个非同义纯合子。虚线代表突变的显著性阈值(MSC95)。
+[ 131] (Normal              ) 
+[ 132] (Normal              ) 同时，我们也观察到ATG4C和ATG4D仍分布着少量罕见、高影响非同义变异，包括gnomAD和HGID数据库中3个病毒性脑炎患者相关的突变。这些突变在人群中极其罕见，且CADD评分很高，远高于其MSC95阈值。这种模式并不否定ATG4C和ATG4D受到纯化选择，而是提示在总体强约束的背景下，仍有少量极罕见、高影响变异可在人群中以低频存在。这可能与杂合状态下选择压力较弱、外显率不完全、ATG4家族成员之间存在部分功能冗余，或其在神经元抗病毒免疫中的特定作用有关。
+[ 133] (Normal              ) 需要强调的是，本研究关注双等位基因突变，即该基因的两个等位基因分别携带不同的破坏性变异（分别遗传自父母双方）。这种构型在常染色体隐性遗传疾病中至关重要，因为通常需要两个等位基因同时受累才会导致基因功能受损。  这些变异的稀有性及其预测的有害性有力地支持了它们可能具有功能性影响，从而进一步支持了以下假设：严重中枢神经系统病毒感染患者中富集罕见的ATG4基因双等位基因有害变异。
+[ 134] (段                   ) 不过，gnomAD数据主要提供人群频率和变异约束信息，尚不能单独证明这些变异的致病性。因此，我们开展了ATG4C和ATG4D变异的体外表达研究，进一步验证ATG4C和ATG4D变异是否会在mRNA和蛋白质层面影响表达。
+[ 135] (段                   ) 3.2 ATG4C和ATG4D变异的体外表达
+[ 136] (段                   ) 3.2.1 候选基因筛选
+[ 137] (段                   ) 基于上文的群体遗传学分析，我们想要在体外系统性性评估变异对ATG4C和ATG4D转录、表达的影响。我们设定筛选的标准为符合MAF > 0.0001或AM评分>0.56的纯合非同义变异和患者携带的双等位非同义变异（图 3.2）。最终，我们筛选得到了16个ATG4C变异和10个ATG4D变异（表 3.1，3.2）。其中ATG4C Gln216Ter、Arg389Ter、797-2A>C、Trp203Leufs*4、Val320Glyfs*8是pLOF变异。
+[ 138] (段                   ) 
+[ 139] (Normal              ) 图3.2 筛选符合条件的ATG4C和ATG4D变异。ATG4家族的群体遗传学分析基因组聚合数据库（gnomAD v4.1）中报告的ATG4C和ATG4D变异的AM评分（AM score）及联合注释依赖性缺失（CADD）评分。每个点代表针对每个同源物列出的gnomAD数据库中普通人群中的一个或多个非同义纯合子。虚线代表突变的显著性阈值（MSC95）和AM评分阈值。
+[ 140] (Normal              ) 
+[ 141] (Normal              ) 表3.1 筛选得到的ATG4C变异
+[ 142] (Normal              ) 
+[ 143] (Normal              ) 
+[ 144] (Normal              ) 表3.2 筛选得到的ATG4D变异
+[ 145] (Normal              ) 
+[ 146] (段                   ) 3.2.2 ATG4C变异对转录和蛋白质表达的影响
+[ 147] (段                   ) 我们通过RT-qPCR检测了ATG4C野生型及变异体在HEK293T细胞中的mRNA表达水平，评估ATG4C变异是否在转录水平影响其表达（图 3.3A）。综合2–3号外显子和7–8号外显子两组引物的RT-qPCR结果可以看出，多数ATG4C变异并未导致mRNA水平降低。Arg389Ter、Trp203Leufs*4、Glu216Ter、Lys371Arg、Lys326Gln、Asp442Tyr、Asn75Ser、Thr33Met、Pro60Ser、Lys155Gln、His197Leu、Gln122Arg和Arg80His相对于WT表现为相近或更高的mRNA表达水平。其中多个变异在两组引物中均显示高于WT，提示这些变异可能并不通过降低ATG4C mRNA丰度发挥作用。
+[ 148] (段                   ) 值得注意的是，Val320Glyfs*8和c.797-2A>C显示出明显的区域性检测差异：两者在2–3号外显子引物检测中信号均高于WT，而在7–8号外显子引物检测中信号接近EV水平。这说明这两个变异体的上游转录本区域仍然存在，并未出现整体性mRNA降解；但正常的7–8号外显子检测信号几乎消失。我们认为，这种结果主要是由于Val320Glyfs*8和c.797-2A>C位于或邻近ATG4C的6–7号外显子区域，可能改变了7–8号外显子扩增区域的局部序列或转录本结构，从而严重影响7–8号外显子引物与模板cDNA的结合，导致该检测体系出现假性低表达。相比之下，2–3号外显子区域位于这些变异的上游，未受到突变直接影响，因此对于Val320Glyfs*8和c.797-2A>C，2–3号外显子引物检测结果更能反映其真实的ATG4CmRNA水平。相反，Tyr25Asp表现出另一种方向的不一致，即2–3号外显子信号明显低于WT，而7–8号外显子信号与WT接近，提示2–3号外显子检测异常可能是局部效应，并不支持其导致ATG4C mRNA整体减少。
+[ 149] (段                   ) 
+[ 150] (段                   ) 图 3.3 ATG4C变异对转录和蛋白质表达的影响。(A)使用RT-qPCR针对ATG4C2-3号外显子和7-8号外显子区域的引物检测不同变异对ATG4C转录的影响。(B)蛋白免疫印迹法检测ATG4C野生型及变异体在HEK293T细胞中的蛋白表达水平。(C)影响蛋白质水平的ATG4C变异均位于催化结构域上。
+[ 151] (段                   ) 
+[ 152] (段                   ) 在完成RT-qPCR对ATG4C/D变异体mRNA水平的检测后，我们采用Western blot检测ATG4C野生型及变异体在HEK293T细胞中的蛋白表达水平，以评估ATG4C变异是否在蛋白质水平影响其表达、翻译产物大小或蛋白质稳定性（图 3.3 B）。
+[ 153] (Normal              ) 结果显示，不同ATG4C变异体在蛋白水平表现出明显差异。我们未能检测到Val320Glyfs*8、Trp203Leufs*4、Glu216Ter和797-2A>C这4个被预测为pLOF变异对应的ATG4C蛋白。结合这些pLOF变异在ATG4C蛋白结构中的位置分析，这些变异均位于或影响ATG4C的催化结构域区域（图 3.3 C）。其中，Trp203Leufs*4和Glu216Ter发生在ATG4C蛋白中部，直接导致催化结构域内出现移码或提前终止密码子，使蛋白在尚未完成完整催化结构域折叠前即被截断；Val320Glyfs*8虽然位置相对靠后，但仍位于催化结构域相关区域，移码后会改变其后的氨基酸序列并迅速产生提前终止密码子，从而破坏催化结构域后半部分及其下游C端结构；而797-2A>C可能因为片段缺失改变正常阅读框，导致异常截短蛋白或错误翻译产物形成。由于ATG4C的催化结构域对蛋白正确折叠和稳定存在至关重要，这些变异造成的提前终止、移码或缺失很可能破坏蛋白核心结构，使其无法形成稳定构象，并进一步被细胞内蛋白质量控制系统识别和降解。
+[ 154] (Normal              ) 结合RT-qPCR结果，这些ATG4C变异的主要影响可能并不发生在转录水平，而更可能发生在蛋白翻译、折叠或稳定性维持阶段。Val320Glyfs*8、Trp203Leufs*4、Glu216Ter和797-2A>C这4个pLOF变异均可能通过破坏ATG4C催化结构域、造成蛋白截短或异常构象，严重损害ATG4C蛋白的翻译产物形成和稳定性，从而导致ATG4C在蛋白水平的缺失。
+[ 155] (段                   ) 3.2.3 ATG4D变异对转录和蛋白质表达的影响
+[ 156] (Normal              ) 我们选择了针对ATG4D 2-3号外显子和6-7号外显子的引物，其余实验方法和参数设置与ATG4C组相同。RT-qPCR实验结果如图3.4 A所示。
+[ 157] (Normal              ) 与ATG4C组中部分变异出现明显区域性检测差异不同，ATG4D组各变异在2–3号外显子和6–7号外显子两组引物中的变化趋势整体较为一致，未观察到某一检测区域信号明显保留而另一检测区域接近EV的情况。整体来看，所有ATG4D变异体的mRNA表达水平均明显高于EV，说明这些变异体均存在可检测的ATG4D转录本表达；但与WT相比，不同变异体表现出不同程度的mRNA水平下降。
+[ 158] (Normal              ) 其中，Arg382His、Ser89Asn、Tyr280Cys和Ser420del在两组探针中均整体转录本丰度仍相对接近WT，提示这些变异并未导致ATG4D的mRNA明显减少。相比之下，Glu374Asp、Ala44Pro和Asn314His在两组探针中均显示轻微下降，提示这些变异可能轻微影响ATG4DmRNA丰度或稳定性。Leu416Phe、Phe128Leu和Pro426Arg相对于WT表现出较为明显的mRNA水平降低，但其表达仍显著高于EV。
+[ 159] (Normal              ) Western blot结果显示，与部分导致蛋白缺失的ATG4C pLOF变异不同，所有检测的ATG4D变异体（主要为错义变异及小片段缺失Ser420del）均能表达与野生型（WT）分子量一致的全长蛋白（图 3.4 B）。结合ATG4D变异发生的位置来看（图 3.4 C），这些变异未造成明显的移码或提前终止，没有破坏蛋白的整体翻译过程，也未导致蛋白在细胞内发生快速降解。但是据报道，ATG4D Ser89Asn和Tyr280Cys会导致以言语和运动障碍为特征的神经发育障碍[19]。这说明些ATG4D变异可能并非通过降低蛋白稳定性或阻断翻译来发挥作用。
+[ 160] (Normal              ) 
+[ 161] (Normal              ) 图3.4 ATG4D变异对转录和蛋白质表达的影响。(A)使用RT-qPCR针对ATG4D2-3号外显子和6-7号外显子区域的引物检测不同变异对ATG4D转录的影响。(B)蛋白免疫印迹法检测ATG4D野生型及变异体在HEK293T细胞中的蛋白表达水平。(C)影响蛋白质水平的ATG4D变异位于线粒体信号肽和催化结构域上。
+[ 162] (Normal              ) 
+[ 163] (Normal              ) 综合RT-qPCR与Western blot的结果来看：尽管不同ATG4D变异对转录水平的影响存在差异（部分变异体的mRNA水平出现轻度或较明显下降），但这种转录水平的降低并未转化为明显的蛋白缺失表型。在瞬时表达体系中，所有变异体均能维持稳定的全长蛋白表达。因此，这些ATG4D变异可能并非通过降低蛋白稳定性或阻断翻译来发挥作用，其潜在的功能后果更可能体现在影响蛋白活性、底物识别、蛋白互作或亚细胞定位等功能层面。
+[ 164] (Normal              ) 
+[ 165] (Normal              ) 4 实验结论
+[ 166] (Normal              ) 本研究围绕ATG4C和ATG4D在人类抗病毒免疫中的潜在作用，首先基于gnomAD v4.1数据库对两者进行了群体遗传学分析。结果显示，ATG4C和ATG4D中高CADD评分且超过MSC95阈值的非同义变异在人群中总体较为罕见，尤其是ATG4D表现出更明显的变异约束特征，提示这两个基因受到纯化选择，其明显破坏性变异在普通人群中耐受性较低。这与ATG4C和ATG4D在自噬、细胞稳态维持及多组织表达中的重要功能相一致。
+[ 167] (Normal              ) 同时，我们也发现ATG4C和ATG4D中仍存在少量罕见、高影响非同义变异，包括病毒性脑炎患者携带的ATG4C p.Arg389Ter以及ATG4D Ser89Asn和 Arg382His等变异。这些变异在人群中频率极低，且预测有害性较高，提示其可能具有潜在功能影响。由于本研究关注的是双等位基因变异，即同一基因的两个等位基因均携带潜在有害变异，这种遗传构型符合常染色体隐性遗传或隐性易感性的特点。
+[ 168] (Normal              ) 本研究进一步筛选了16个ATG4C变异和10个ATG4D在人群中较常见或预测有害性较高的纯合非同义变异，并在HEK293T细胞中过表达这些变异体，通过RT-qPCR和Western blot检测其mRNA和蛋白表达。结果显示，人群中较常见的 ATG4C 变异没有显著影响转录本水平、影响mRNA稳定性或翻译、产生截短蛋白，或降低蛋白稳定性。然而，ATG4C Val320Glyfs*8、Trp203Leufs*4、Glu216Ter和c.797-2A>C这4个预测有害性较高的罕见pLOF变异未能检测到相应蛋白表达，说明这些变异可能通过导致蛋白截短、异常折叠或稳定性下降，使ATG4C蛋白缺失，从而对基因功能造成显著损害。这也验证了pLOF、AlpaMissense、CADD等预测工具对于ATG4C有害变异的预测比较准确。
+[ 169] (Normal              ) 相比之下，ATG4D各变异体均可检测到mRNA表达，虽然部分变异的 mRNA水平有所下降，但所有检测的ATG4D变异体均能表达与野生型分子量一致的全长蛋白。这提示ATG4D变异的潜在功能影响可能并非通过蛋白缺失实现，而更可能涉及酶活性、底物识别、蛋白互作或亚细胞定位等功能层面的改变。
+[ 170] (Normal              ) 综上，本研究表明，ATG4C和ATG4D整体受到进化约束，其罕见高影响变异具有潜在功能意义。其中，部分ATG4C功能丧失性变异可导致蛋白表达缺失，提示其可能造成较严重的功能损害；而ATG4D变异虽未导致明显蛋白缺失，但仍可能通过影响蛋白功能参与疾病易感性。这些结果支持ATG4C和ATG4D有害变异可能参与病毒性脑炎等严重中枢神经系统病毒感染的发生，并为进一步研究ATG4介导的自噬在人类抗病毒免疫中的作用提供了遗传学和实验依据。
+[ 171] (Normal              ) 
+[ 172] (Normal              ) 5 讨论
+[ 173] (Normal              ) 我的合作者完成了ATG4C野生型及变异体稳定表达BJ1细胞系的构建，并利用HSV-1/tdTomato感染模型评估不同ATG4C变异对细胞HSV-1易感性影响的实验。实验结果显示（图 5.1），以EV组的HSV-1/tdTomato阳性细胞比例作为100%，WT组的阳性率约为EV组的50%。以WT组和EV组为参照，Arg389Ter、Val320Glyfs*8、Trp203Leufs*4、Glu216Ter以及797-2A>C/等ATG4C pLOF变异的病毒阳性率均接近EV组水平。该结果与前文Western blot结果一致，即Val320Glyfs*8、Trp203Leufs*4、Glu216Ter和797-2A>C等变异可导致ATG4C蛋白缺失，支持这些预测的pLOF变异确为功能缺失变异，并使细胞对HSV-1感染更为易感。该结果进一步支持了本研究的核心假说：严重中枢神经系统病毒感染患者中富集罕见的ATG4基因双等位基因有害变异。	
+[ 174] (Normal              ) 
+[ 175] (Normal              ) 图5.1 ATG4C变异对BJ1稳定表达细胞系HSV-1易感性的影响。通过慢病毒转导构建稳定表达野生型或变异型ATG4C的BJ1细胞系，并通过HSV-1感染实验评估不同ATG4C变异对细胞HSV-1易感性的影响。
+[ 176] (Normal              ) 
+[ 177] (Normal              ) UniProt注释显示，ATG4C的催化活性依赖于由Cys11、Asp345和His347组成的Cys-His-Asp催化三联体。其中，Cys11作为亲核性半胱氨酸残基，是半胱氨酸蛋白酶催化反应的核心；Asp345和His347与Cys11共同构成催化中心，参与ATG8家族蛋白的剪切及去脂化过程。因此，凡是导致催化残基缺失、蛋白空间构象异常或催化中心稳定性受损的变异，均可能削弱ATG4C介导的自噬功能，并影响细胞对HSV-1感染的限制能力。
+[ 178] (Normal              ) 本研究中，Western blot结果显示Val320Glyfs*8、Trp203Leufs*4、Glu216Ter以及797-2A>C等pLOF变异这些变异体蛋白缺失，与其在HSV-1/tdTomato感染实验中病毒阳性率接近EV组的结果一致，支持这些预测pLOF变异确为功能缺失变异。Arg389Ter虽位于Asp345和His347之后，理论上保留催化三联体，但其导致C端截短，仍可能影响蛋白稳定性、底物识别或自噬相关相互作用，因此也可造成ATG4C抗病毒功能明显下降。
+[ 179] (Normal              ) 除pLOF变异外，Pro60Ser、Val71Ile、Lys155Gln和His197Leu等错义变异也表现出不同程度的功能损害。这些位点并不直接位于Cys11、Asp345或His347，但可能通过改变局部理化性质、构象稳定性或蛋白表面相互作用影响ATG4C功能。Pro60Ser由刚性较强的脯氨酸变为极性丝氨酸，可能改变局部主链构象和柔性；由于其位于N端区域，可能间接影响Cys11附近结构稳定性。Val71Ile属于疏水性氨基酸之间的保守替换，对电荷影响较小，但侧链体积和空间取向改变仍可能影响局部疏水堆积或构象动态。Lys155Gln则导致带正电荷的赖氨酸变为不带电的极性谷氨酰胺，可能造成局部正电荷丢失，影响盐桥、蛋白表面静电分布或底物结合。His197Leu由可参与氢键和弱正电相互作用的组氨酸变为疏水性亮氨酸，可能破坏局部氢键网络并增加疏水性，因此更容易影响蛋白折叠或构象稳定性。
+[ 180] (Normal              ) 总体而言，ATG4C变异可分为两类：一类为截短、移码或剪接异常导致的pLOF变异，主要通过蛋白缺失、催化三联体破坏或C端结构受损造成严重功能丧失；另一类为错义变异，虽不直接破坏催化三联体，但可通过改变氨基酸电荷、极性、疏水性和局部构象，导致部分功能缺陷。HSV-1/tdTomato感染实验中，WT ATG4C可显著降低病毒阳性细胞比例，而pLOF变异及部分错义变异不能充分发挥保护作用，提示ATG4C完整结构及正常蛋白酶活性对于限制HSV-1感染具有重要意义。这些结果进一步支持ATG4C介导的自噬通路参与抗HSV-1天然免疫，也为严重中枢神经系统病毒感染患者中罕见ATG4C双等位基因有害变异的致病作用提供了功能学依据
+[ 181] (Normal              ) 越来越多的研究提示，ATG4家族变异可能参与多种人类神经系统疾病的发生，并且存在多样的致病机制。除前文提到的ATG4A和LC3B2的罕见有害变异导致的自噬缺陷引起人类中枢神经系统HSV-2感染易感性外，ATG4D双等位基因变异还被发现可导致以语言和运动发育障碍为主要表现的综合征性神经发育疾病，其中Tyr280Cys、Asp356Asn和Asp437Alafs*37等变异可降低ATG4D对其主要底物GABARAPL1的加工活性[19]。有意思的是，患者细胞中整体自噬体形成和常规自噬通量并未出现明显异常，提示ATG4D相关疾病机制可能并非简单的全局自噬阻断，而可能涉及特定底物加工、组织特异性功能、非经典自噬或自噬非依赖性功能异常。动物模型研究也支持ATG4D在神经系统中的重要作用，例如ATG4D缺陷小鼠可出现小脑神经退行性改变[20]，携带ATG4D错义变异的犬模型则表现为进行性小脑共济失调和Purkinje细胞丢失[21]。ATG4家族变异还可能通过影响自噬活性参与肿瘤相关生物学过程[22]。这些发现提示ATG4家族变异的疾病效应具有多样性，其致病机制可能不仅限于经典自噬缺陷，还可能涉及底物特异性加工、组织特异性功能、非经典自噬以及自噬非依赖性功能异常。
+[ 182] (Normal              ) 遗憾的是，由于多种因素限制，本研究尚未系统阐明这些变异导致HSV-1易感性的具体机制。在未来，我们还需要进一步检测自噬通量、LC3/GABARAP脂质化、p62降解、自噬体形成及自噬体-溶酶体融合等关键指标，来确定ATG4C pLOF变异导致的HSV-1控制能力下降是否完全依赖经典巨自噬途径，或是否还涉及非经典自噬及自噬非依赖性功能。
+[ 183] (Normal              ) 目前，越来越多研究提示ATG4同源物并非简单冗余，而是在底物偏好、组织表达、亚细胞定位和非经典自噬功能方面存在差异[23]。因此，未来需要在ATG4单敲除、多重敲除或四重敲除的同源背景中回补野生型和变异体，以更准确地评估不同ATG4变异的功能影响。而且本研究尚缺乏患者来源细胞、神经元模型或动物模型验证，未来应结合原代成纤维细胞、iPSC来源神经元以及更多病毒感染模型，进一步明确ATG4C/D变异在中枢神经系统抗病毒免疫中的作用。
+[ 184] (Normal              ) 从潜在应用角度看，本研究结果为严重中枢神经系统病毒感染的遗传风险评估、机制分型和干预策略探索提供了新的方向。ATG4C/D及其他ATG4家族基因可作为疑似病毒性脑炎、复发性疱疹病毒感染或不明原因严重中枢神经系统感染患者遗传筛查的候选基因。对于携带双等位基因pLOF变异或功能受损错义变异的个体，结合家系分析和体外功能验证，有助于提高罕见遗传易感因素的诊断率，并为患者及家属提供遗传咨询依据。其次，ATG4C功能状态可能作为宿主抗病毒自噬能力的生物标志物，用于识别HSV-1感染后发生重症或中枢神经系统播散风险较高的人群。未来若能建立标准化的ATG4C变异功能评估体系，例如基于LC3/GABARAP加工、自噬通量及病毒复制抑制能力的高通量检测平台，将有助于对临床发现的罕见变异进行快速致病性判定。
+[ 185] (Normal              ) 此外，本研究也提示增强自噬功能可能成为部分ATG4相关病毒易感患者的辅助治疗思路。未来可探索mTOR抑制剂、AMPK激活剂、溶酶体功能增强剂或其他自噬调节小分子是否能够部分恢复ATG4C/D功能缺陷细胞对HSV-1的控制能力。当然，对于完全缺失型pLOF变异，单纯诱导自噬可能不足以纠正缺陷，基因补充、mRNA递送或基因编辑等策略在理论上更具针对性。ATG4C/D变异模型还可用于抗病毒药物和宿主靶向治疗的筛选，帮助寻找能够绕过ATG4C缺陷、增强细胞内病毒清除或改善神经细胞抗病毒能力的候选干预措施。随着患者来源细胞、iPSC神经元及动物模型的建立，ATG4C相关研究有望从遗传发现进一步转化为风险预测、精准诊断和个体化治疗策略。
+[ 186] (Normal              ) 
+[ 187] (段                   ) 
+[ 188] (Normal              ) 6 参考文献
+[ 189] (Bibliography        ) [1]	 HAIT A S, OLAGNIER D, SANCHO-SHIMIZU V, 等. Mutations in LC3B2 and ATG4A underlie recurrent HSV2 meningitis and reveal a critical role for autophagy in antiviral defense in humans[J]. Science immunology, 2020, 5(54), eabc2691.
+[ 190] (Bibliography        ) [2]	 MIZUSHIMA N, LEVINE B, CUERVO A M, 等. Autophagy fights disease through cellular self-digestion[J]. Nature, 2008, 451(7182), 1069-1075.
+[ 191] (Bibliography        ) [3]	 DERETIC V, LEVINE B. Autophagy balances inflammation in innate immunity[J]. Autophagy, 2018, 14(2), 243-251.
+[ 192] (Bibliography        ) [4]	 LEVINE B, KROEMER G. Biological Functions of Autophagy Genes: A Disease Perspective[J]. Cell, 2019, 176(1), 11-42.
+[ 193] (Bibliography        ) [5]	 HE C, KLIONSKY D J. Regulation Mechanisms and Signaling Pathways of Autophagy[J]. Annual Review of Genetics, 2009, 43(Volume 43, 2009), 67-93.
+[ 194] (Bibliography        ) [6]	 WEIDBERG H, SHVETS E, SHPILKA T, 等. LC3 and GATE‐16/GABARAP subfamilies are both essential yet act differently in autophagosome biogenesis[J]. The EMBO Journal, 2010, 29(11), 1792-1802.
+[ 195] (Bibliography        ) [7]	 ABHILASH I C, NATHAN R B, RALF B. Divergent Roles of Autophagy in Virus Infection[EB/OL].[2026-05-07]. https://www.mdpi.com/2073-4409/2/1/83.
+[ 196] (Bibliography        ) [8]	 XIAONAN D, BETH L. Autophagy and Viruses: Adversaries or Allies? | Journal of Innate Immunity | Karger Publishers[EB/OL].[2026-05-07]. https://karger.com/jin/article-abstract/5/5/480/180383/Autophagy-and-Viruses-Adversaries-or-Allies?redirectedFrom=fulltext.
+[ 197] (Bibliography        ) [9]	 ORVEDAHL A, MACPHERSON S, SUMPTER R, 等. Autophagy Protects against Sindbis Virus Infection of the Central Nervous System[J]. Cell Host & Microbe, 2010, 7(2), 115-127.
+[ 198] (Bibliography        ) [10]		HEUNG K L, JENNIFER M L, BALAJI R, 等. Autophagy-Dependent Viral Recognition by Plasmacytoid Dendritic Cells | Science[EB/OL].[2026-05-07]. https://www.science.org/doi/10.1126/science.1136880.
+[ 199] (Bibliography        ) [11]		MCNAB F, MAYER-BARBER K, SHER A, 等. Type I interferons in infectious disease[J]. Nature Reviews Immunology, 2015, 15(2), 87-103.
+[ 200] (Bibliography        ) [12]		LI M, HOU Y, WANG J, 等. Kinetics Comparisons of Mammalian Atg4 Homologues Indicate Selective Preferences toward Diverse Atg8 Substrates *[J]. Journal of Biological Chemistry, 2011, 286(9), 7327-7338.
+[ 201] (Bibliography        ) [13]		LI M, FU Y, YANG Z, 等. Measurement of the Activity of the Atg4 Cysteine Proteases[J]. Methods in Enzymology, 2017, 587, 207-225.
+[ 202] (Bibliography        ) [14]		NGUYEN T N, PADMAN B S, ZELLNER S, 等. ATG4 family proteins drive phagophore growth independently of the LC3/GABARAP lipidation system[J]. Molecular Cell, 2021, 81(9), 2013-2030.e9.
+[ 203] (Bibliography        ) [15]		RENTZSCH P, WITTEN D, COOPER G M, 等. CADD: predicting the deleteriousness of variants throughout the human genome[J]. NUCLEIC ACIDS RESEARCH, 2019, 47(D1), D886-D894.
+[ 204] (Bibliography        ) [16]		ITAN Y, SHANG L, BOISSON B, 等. The mutation significance cutoff (MSC): gene-level thresholds for variant-level predictions[J]. Nature methods, 2016, 13(2), 109-110.
+[ 205] (Bibliography        ) [17]		CHEN S, FRANCIOLI L C, GOODRICH J K, 等. A genomic mutational constraint map using variation in 76,156 human genomes[J]. Nature, 2024, 625(7993), 92-100.
+[ 206] (Bibliography        ) [18]		HEDVIG T, ODALYS T, MATE C, 等. Analysis of AlphaMissense data in different protein groups and structural context | Scientific Data[EB/OL].[2026-05-07]. https://www.nature.com/articles/s41597-024-03327-8.
+[ 207] (Bibliography        ) [19]		MORIMOTO M, BHAMBHANI V, GAZZAZ N, 等. Bi-allelic ATG4D variants are associated with a neurodevelopmental disorder characterized by speech and motor impairment[J]. NPJ Genomic Medicine, 2023, 8, 4.
+[ 208] (Bibliography        ) [20]		TAMARGO-GÓMEZ I, MARTÍNEZ-GARCÍA G G, SUÁREZ M F, 等. ATG4D is the main ATG8 delipidating enzyme in mammalian cells and protects against cerebellar neurodegeneration[J]. Cell Death & Differentiation, 2021, 28(9), 2651-2672.
+[ 209] (Bibliography        ) [21]		KYÖSTILÄ K, SYRJÄ P, JAGANNATHAN V, 等. A Missense Change in the ATG4D Gene Links Aberrant Autophagy to a Neurodegenerative Vacuolar Storage Disease[J]. PLOS Genetics, 2015, 11(4), e1005169.
+[ 210] (Bibliography        ) [22]		LIU P F, YANG S W, YANG W H, 等. Autophagy Protease ATG4D Facilitates Proliferation and Malignancy of Osteosarcoma Cells[J]. The FASEB Journal, 2025, 39(17), e70990.
+[ 211] (Bibliography        ) [23]		LI M, HOU Y, WANG J, 等. Kinetics comparisons of mammalian Atg4 homologues indicate selective preferences toward diverse Atg8 substrates[J]. The Journal of Biological Chemistry, 2011, 286(9), 7327-7338.
+[ 212] (Bibliography        ) 
+[ 213] (段                   ) 作者简历
+[ 214] (段                   ) 姓名：方策  性别：男  民族：汉  出生年月：2004-01-01  籍贯：浙江省金华市
+[ 215] (段                   ) 2019.09-2022.07   浙江省金华市浙江金华第一中学
+[ 216] (段                   ) 2022.09-2024.07   浙江大学竺可桢学院求是科学班（生物科学）专业攻读学士学位
+[ 217] (段                   ) 2024.09-2026.07   浙江大学生命科学学院求是科学班（生物科学）专业攻读学士学位
+[ 218] (段                   ) 
+[ 219] (段                   ) 在校期间获奖情况：
+[ 220] (段                   ) 无
+[ 221] (段                   ) 
+[ 222] (段                   ) 在校期间参加科研项目、社会实践等情况：
+[ 223] (段                   ) 2024.5-2025.5  浙江大学竺可桢学院2024年度深度科研项目，USP18突变导致的自身炎症性疾病致病机制研究，指导老师：周青教授（博士生导师）
+[ 224] (段                   ) 2023.8 参加浙江大学竺可桢学院赴贵州“竺心燃明烛，为爱援边疆”暑期社会实践团
+[ 225] (段                   ) 
+[ 226] (Normal              ) 在校期间发表的学术成果（论著、专利、标准等）：
+[ 227] (Normal              ) 无
